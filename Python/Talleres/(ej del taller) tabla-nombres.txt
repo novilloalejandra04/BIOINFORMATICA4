@@ -1,0 +1,4 @@
+Nombre	Apellidos	Edade	Mascota
+Nombre	Apellidos	Edade	Mascota
+Lola	Suárez Fernández	21	Bruno
+Alba	Roca	31	Aby
